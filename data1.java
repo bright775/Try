@@ -1,9 +1,9 @@
 public class data{
 	public static void main(String[] args) {
 		
-		int number = 5;
+		int numb = 4;
 
-		System.out.println("The result of the calculation is "+ square(number));
+		System.out.println("The result of the calculation is "+ square(numb));
 
 	}
 
